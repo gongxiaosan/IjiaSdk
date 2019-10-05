@@ -1,0 +1,6 @@
+framework module IjiaSdk {
+  umbrella header "IjiaSdk.h"
+
+  export *
+  module * { export * }
+}
